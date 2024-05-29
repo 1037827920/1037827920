@@ -94,6 +94,8 @@ HTML                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on 29/05/2024 17:18:56 UTC
 <!--END_SECTION:waka-->
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=1037827920&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1037827920&theme=merko&hide_border=true&layout=compact&langs_count=20" width="805"/>
 <br/>
