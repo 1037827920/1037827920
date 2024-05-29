@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font==Ubuntu+Sans+Mono&size=30&pause=1002&color=99F718&background=9389FF00&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+<img src="https://readme-typing-svg.demolab.com?font==Ubuntu+Sans+Mono&size=30&pause=1002&color=99F718&background=9389FF00&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!" />
 </p>
 
 <p align="center">
