@@ -11,9 +11,8 @@
 <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=1037827920&theme=merko&hide_border=true&area=true%20Graph" />
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=1037827920&theme=merko&layout=compact" width="805"/>
-<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1037827920&theme=merko&hide_border=true&layout=compact&langs_count=20" width="805"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=1037827920&theme=merko&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1037827920&theme=merko&hide_border=true&layout=compact&langs_count=20"/>
 <br/>
 
 <!--START_SECTION:waka-->
