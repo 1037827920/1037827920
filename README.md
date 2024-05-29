@@ -12,7 +12,7 @@
 <br/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=1037827920&theme=merko&layout=compact"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1037827920&theme=merko&hide_border=true&layout=compact&langs_count=20"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1037827920&theme=merko&hide_border=true&layout=compact&langs_count=8"/>
 <br/>
 
 <!--START_SECTION:waka-->
