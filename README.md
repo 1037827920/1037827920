@@ -16,6 +16,9 @@
 <br/>
 
 <!--START_SECTION:waka-->
+**Timeline**
+![Lines of Code chart](https://raw.githubusercontent.com/1037827920/1037827920/main/assets/bar_graph.png)
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-86-blue)
@@ -34,11 +37,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/1037827920/1037827920/main/assets/bar_graph.png)
 
 
 **I'm a Night 🦉** 
