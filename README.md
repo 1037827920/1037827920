@@ -34,6 +34,13 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/1037827920/1037827920/main/assets/bar_graph.png)
+
+
 **I'm a Night 🦉** 
 
 ```text
@@ -88,12 +95,6 @@ C++                      2 repos             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀�
 Tcl                      1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.09 % 
 HTML                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.09 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/1037827920/1037827920/main/assets/bar_graph.png)
 
 
  Last Updated on 29/05/2024 17:18:56 UTC
