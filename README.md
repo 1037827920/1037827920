@@ -16,6 +16,10 @@
 <br/>
 
 <!--START_SECTION:waka-->
+
+**Timeline**
+![Lines of Code chart](https://raw.githubusercontent.com/1037827920/1037827920/main/assets/bar_graph.png)
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-162-blue)
@@ -87,11 +91,6 @@ Tcl                      1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 HTML                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.09 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/1037827920/1037827920/main/assets/bar_graph.png)
 
 
  Last Updated on 29/05/2024 18:37:03 UTC
