@@ -11,11 +11,15 @@
 <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=1037827920&theme=merko&hide_border=true&area=true%20Graph" />
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=1037827920&theme=merko&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=1037827920&theme=merko&layout=compact&langs_count=8"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1037827920&theme=merko&hide_border=true&layout=compact&langs_count=8"/>
 <br/>
 
 <!--START_SECTION:waka-->
+
+**Timeline**
+![Lines of Code chart](https://raw.githubusercontent.com/1037827920/1037827920/main/assets/bar_graph.png)
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-168-blue)
@@ -86,12 +90,6 @@ C++                      2 repos             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀�
 Tcl                      1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.09 % 
 HTML                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.09 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/1037827920/1037827920/main/assets/bar_graph.png)
 
 
  Last Updated on 30/05/2024 18:39:04 UTC
