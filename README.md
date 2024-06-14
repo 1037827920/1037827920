@@ -18,13 +18,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-167.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 64.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 206 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,6 +90,6 @@ Tcl                      1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/1037827920/1037827920/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2024 18:39:12 UTC
+ Last Updated on 14/06/2024 18:39:06 UTC
 <!--END_SECTION:waka-->
 
