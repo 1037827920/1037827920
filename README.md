@@ -1,5 +1,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font==Ubuntu+Sans+Mono&size=30&pause=1002&color=99F718&background=9389FF00&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!" />
+<img src="https://komarev.com/ghpvc/?username=1037827920" alt="10000" />
 </p>
 
 <p align="center">
