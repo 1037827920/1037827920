@@ -13,3 +13,11 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1037827920&theme=merko&hide_border=true&layout=compact&langs_count=8"/>
 <br/>
 </p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/1037827920/1037827920/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/1037827920/1037827920/blob/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
+
