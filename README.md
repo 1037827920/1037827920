@@ -15,9 +15,14 @@
 </p>
 
 <p align="center">
-<picture>
+<!--贪吃蛇-->
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/1037827920/1037827920/blob/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://github.com/1037827920/1037827920/blob/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
+  
+<!--正常contribution graph-->
+<img src="https://ghchart.rshah.org/1037827920" width=850/>
 </p>
+
 
